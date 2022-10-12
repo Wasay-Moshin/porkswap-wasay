@@ -38,61 +38,61 @@ function Comparison() {
             <tr>
               <th scope="row">Automated Market Maker </th>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
             </tr>
             <tr>
               <th scope="row">Spot Trading</th>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
             </tr>
             <tr>
               <th scope="row">Futures Trading </th>
               <td>
-                <MdOutlineCancel fas icon="check" className="text-danger" />
+                <MdOutlineCancel  icon="check" className="text-danger" />
               </td>
               <td>
-                <MdOutlineCancel fas icon="times" className="text-danger" />
+                <MdOutlineCancel  icon="times" className="text-danger" />
               </td>
               <td>
-                <MdOutlineCancel fas icon="times" className="text-danger" />
+                <MdOutlineCancel  icon="times" className="text-danger" />
               </td>
             </tr>
             <tr>
               <th scope="row">Governance</th>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-success" />
+                <BsCheckLg  icon="times" className="text-success" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-success" />
+                <BsCheckLg  icon="times" className="text-success" />
               </td>
             </tr>
             <tr>
               <th scope="row">Leveraged Trading</th>
               <td>
-                <MdOutlineCancel fas icon="check" className="text-danger" />
+                <MdOutlineCancel  icon="check" className="text-danger" />
               </td>
               <td>
-                <MdOutlineCancel fas icon="times" className="text-danger" />
+                <MdOutlineCancel  icon="times" className="text-danger" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-success" />
+                <BsCheckLg  icon="times" className="text-success" />
               </td>
             </tr>
             <tr>
@@ -110,37 +110,37 @@ function Comparison() {
             <tr>
               <th scope="row">Inflationary</th>
               <td>
-                <BsCheckLg fas icon="check" className="text-danger" />
+                <BsCheckLg  icon="check" className="text-danger" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-danger" />
+                <BsCheckLg  icon="times" className="text-danger" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-success" />
+                <BsCheckLg  icon="times" className="text-success" />
               </td>
             </tr>
             <tr>
               <th scope="row">Deflationary</th>
               <td>
-                <MdOutlineCancel fas icon="check" className="text-danger" />
+                <MdOutlineCancel  icon="check" className="text-danger" />
               </td>
               <td>
-                <MdOutlineCancel fas icon="check" className="text-danger" />
+                <MdOutlineCancel  icon="check" className="text-danger" />
               </td>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
             </tr>
             <tr>
               <th scope="row">Fixed Supply</th>
               <td>
-                <BsCheckLg fas icon="check" className="text-success" />
+                <BsCheckLg  icon="check" className="text-success" />
               </td>
               <td>
-                <MdOutlineCancel fas icon="times" className="text-danger" />
+                <MdOutlineCancel  icon="times" className="text-danger" />
               </td>
               <td>
-                <BsCheckLg fas icon="times" className="text-success" />
+                <BsCheckLg  icon="times" className="text-success" />
               </td>
             </tr>
           </MDBTableBody>
